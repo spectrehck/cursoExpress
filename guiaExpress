@@ -1,3 +1,4 @@
 curso de express 
 npm init -y crea un package . json
 npm i -S express instala el express y lo graba en nuestro archivo package.json
+touch index.js creamos el archivo (en este caso por consola)
