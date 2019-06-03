@@ -2,3 +2,9 @@ curso de express
 npm init -y crea un package . json
 npm i -S express instala el express y lo graba en nuestro archivo package.json
 touch index.js creamos el archivo (en este caso por consola)
+ahora instalaremos un express aplication generator
+npm i express-generator-g
+express --view=pug express-app-gen
+DEBUG=express-app-gen:* npm start (sirve para inicializar el servidor creado mediante el generador)
+
+
